@@ -1,3 +1,9 @@
+MUST SET YOUR OWN API KEY ON LINE 3 OF App.js
+GO CLAIM YOUR FREE KEY
+https://home.openweathermap.org/api_keys
+(must create an account)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
